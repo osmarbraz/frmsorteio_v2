@@ -3,7 +3,7 @@
 ## Contextualização
 
  - Esta é uma versão do sistema para a IDE NetBeans.<br> 
- - O projeto no NetBeans deve ser chamado FrmSorteio_v2.<br>
+ - O projeto no NetBeans deve ser chamado frmsorteio_v2.<br>
  - Este programa possui diversas classes organizada nos pacotes, principal, modelo e visao.<br>
  - A pasta src contêm os fontes do projeto.<br>
  - A interface gráfica foi construída **com** o auxílio da IDE NetBeans.<br>
